@@ -102,7 +102,7 @@ function Contact() {
 
           {/* CENTER CONTENT */}
           <h1>
-           Contact  npn<span className="highlight">Me</span>
+           Contact <span className="highlight">Me</span>
           </h1>
 
           <label>Full Name</label>
